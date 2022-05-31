@@ -1,6 +1,7 @@
 # learning-path
 
 ## Kafka
+- [ ] Read https://kafka.apache.org/documentation/#gettingStarted
 
 ## React
 - [ ] Do [part 2](https://fullstackopen.com/en/part2) in fullstackopen.com
